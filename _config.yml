@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -20,7 +20,7 @@ title                    : "World of Yeonseok"
 title_separator          : "-"
 name                     : "Yeonseok Kim"
 description              : "Yeonseok's Blog."
-url                      : "https://mmistakes.github.io"
+url                      : "https://kimys1324.github.io"
 baseurl                  : # "/blog"
 repository               : "kimys1324/kimys1324.github.io"
 teaser                   : # "/assets/images/profile_img.jpg"
