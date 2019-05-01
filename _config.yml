@@ -900,7 +900,7 @@ ref: https://support.google.com/plus/answer/9195133" class="link-gray" href="/mm
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> remote_theme           : &quot;mmistakes/minimal-mistakes&quot;</span></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-ent">remote_theme           : &quot;mmistakes/minimal-mistakes&quot;</span></td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
@@ -921,7 +921,7 @@ ref: https://support.google.com/plus/answer/9195133" class="link-gray" href="/mm
       </tr>
       <tr>
         <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
-        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">title                    </span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Site Title<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">title                    </span>: <span class="pl-s"><span class="pl-pds">&quot;</span>World of Yeonseok<span class="pl-pds">&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
@@ -929,15 +929,15 @@ ref: https://support.google.com/plus/answer/9195133" class="link-gray" href="/mm
       </tr>
       <tr>
         <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
-        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">name                     </span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Your Name<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">name                     </span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Yeonseok Kim<span class="pl-pds">&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
-        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">description              </span>: <span class="pl-s"><span class="pl-pds">&quot;</span>An amazing website.<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">description              </span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Yeonseok's blog<span class="pl-pds">&quot;</span></span></td>
       </tr>
       <tr>
         <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
-        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">url                      </span>: <span class="pl-c"><span class="pl-c">#</span> the base hostname &amp; protocol for your site e.g. &quot;https://mmistakes.github.io&quot;</span></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-ent">url                      </span>: <span class="pl-c"><span class="pl-c">&quot;https://kimys1324.github.io&quot;</span></td>
       </tr>
       <tr>
         <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
