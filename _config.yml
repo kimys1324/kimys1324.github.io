@@ -112,9 +112,6 @@ author:
   location         : "Seoul, South Korea"
   email            : "kimys1324@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:kimys1324@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://kimys1324.github.io"
