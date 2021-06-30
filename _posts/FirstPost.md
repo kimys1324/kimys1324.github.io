@@ -1,7 +1,14 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
+title: "My First Article!"
+tags: Github.io
+date: 2020-06-30 08:26:28 -0400
 categories: blogging
 ---
 
-Initial post for testing blog
+# Welcome
+
+ Finally I start posting on my personal blog with Jekyll.
+
+Please enjoy :)
+
+
