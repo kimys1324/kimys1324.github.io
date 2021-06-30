@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "About"
+    url: categories//about/
+  - title: "Algorithm"
+    url: categories//algorithm/
+  - title: "Cpp"
+    url: categories//cpp/
+  - title: "Python"
+    url: categories//python/
+  - title: "TinyML"
+    url: categories//tinyml/
