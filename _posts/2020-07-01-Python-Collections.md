@@ -1,7 +1,7 @@
 ---
 title: "Useful Data Structures in Python"
 tags: Python
-date: 2020-06-30 23:57:28 -0400
+date: 2021-06-30 23:57:28 -0400
 categories: blogging
 ---
 
